@@ -55,7 +55,7 @@ For a complete example with MkDocs, see [the markdown-wavedrom-mkdocs-example Gi
 
 Feel free to open an issue or a PR if there is something that can be improved.
 
-Releases on PyPI are created automatically through `python-semantic-release`.
+Releases on PyPI are created through `python-semantic-release`.
 Therefore, this project uses [Angular commit message style](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits)
 for commits.
 
