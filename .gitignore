@@ -1,0 +1,28 @@
+# Python
+*.py[cod]
+__pycache__
+
+# Python environment
+venv*/
+
+# Editors
+.vscode/
+
+# Packages
+*.egg
+*.egg-info
+build/
+dist/
+pip-wheel-metadata/
+
+# Tests
+.coverage
+.mypy_cache/
+.pytest_cache/
+.tox/
+reports/
+
+# Results
+out/
+
+*.dll
