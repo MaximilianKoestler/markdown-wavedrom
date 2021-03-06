@@ -1,4 +1,7 @@
 # Support for WaveDrom in Python Markdown
+[![PyPI Versions](https://img.shields.io/pypi/v/markdown-wavedrom.svg)](https://pypi.org/project/markdown-wavedrom/)
+[![PyPI Python Versions](https://img.shields.io/pypi/pyversions/markdown-wavedrom.svg)](https://pypi.org/project/markdown-wavedrom/)
+[![License](https://img.shields.io/github/license/MaximilianKoestler/markdown-wavedrom.svg)](https://github.com/MaximilianKoestler/markdown-wavedrom)
 
 This extension adds support for [WaveDrom](https://wavedrom.com/) to
 [Python Markdown](https://python-markdown.github.io/).
